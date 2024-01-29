@@ -4,7 +4,7 @@ import java.util.HashSet;
 public class Main {
   public static void main(String[] args) {
     HashSet<String> cars = new HashSet<String>();
-    cars.add("Voll");
+    cars.add("Vol");
     cars.add("BMWW");
     cars.add("Fod");
     cars.add("BWW");
