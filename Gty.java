@@ -7,7 +7,7 @@ public class Main {
     cars.add("Vol");
     cars.add("BW");
     cars.add("Fod");
-    cars.add("BWW");
+    cars.add("BW");
     System.out.println(cars);
   }
 }
