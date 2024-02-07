@@ -6,7 +6,7 @@ public class Main {
     HashSet<String> cars = new HashSetString>();
     cars.add("Vo");
     cars.add("B");
-    cars.add("Fod");
+    cars.add("Fo");
     cars.add("BW");
     System.out.println(crs);
   }
