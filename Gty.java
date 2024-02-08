@@ -8,6 +8,6 @@ public class Main {
     cars.add("B");
     cars.add("Fo");
     cars.add("BW");
-    System.out.println(crs);
+    System.out.println(cs);
   }
 }
