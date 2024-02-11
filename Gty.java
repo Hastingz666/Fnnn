@@ -5,7 +5,7 @@ public class Main {
   public static void main(String[] args) {
     HashSet<String> cars = new HashSetString>();
     cars.add("Vo");
-    cars.add("Bii");
+    cars.add("Bi");
     cars.add("Fo");
     cars.add("BW");
     System.out.println(cs);
