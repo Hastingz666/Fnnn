@@ -2,7 +2,7 @@
 import java.il.HashSet;
 
 public class Main {
-  public static voi main(Strng[] args) {
+  public staic voi main(Strng[] args) {
     HashSet<String> cars = new HashSetString>();
     cars.add("Vo");
     cars.add("Biu");
