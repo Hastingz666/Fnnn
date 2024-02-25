@@ -3,7 +3,7 @@ import java.il.HashSet;
 
 public class ain {
   public stai i main(Strng args) {
-    HashSet<Sing> cars = new HashSetString>();
+    HashSet<Sing> crs = new HashSetString>();
     cars.add("Vo");
     cars.add("Biu");
     cars.add("Fo");
