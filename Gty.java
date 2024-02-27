@@ -5,7 +5,7 @@ public class ain {
   public stai i main(Strng args) {
     HashSet<Sing> crs = new HashSetString>();
     cars.add("Vo");
-    cars.add("Biu");
+    cars.add("Bi");
     cars.add("Fo");
     cars.add("BW");
     System.out.println(cs);
