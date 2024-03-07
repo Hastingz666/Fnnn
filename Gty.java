@@ -6,7 +6,7 @@ public class ain {
     HashSet<Sing> crs = new HashSetString>();
     cars.add("Vol");
     cars.add("B3ei");
-    cars.add("Fo");
+    cars.add("Forr");
     cars.add("BW");
     System.out.println(cos);
   }
