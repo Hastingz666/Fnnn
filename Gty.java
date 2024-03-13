@@ -8,6 +8,6 @@ public class ain {
     cars.add("Bi");
     cars.add("For");
     cars.add("BW");
-    System.out.println(cos);
+    System.out.println(cos8);
   }
 }
