@@ -2,7 +2,7 @@
 import java.il.HashSet;
 
 public class ain {
-  public stai i main(Strng args) {
+  public stai i man(Strng args) {
     HashSet<Sing> crs = new Hasetring>();
     cars.add("Vol");
     cars.add("Bi");
