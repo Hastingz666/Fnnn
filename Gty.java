@@ -4,7 +4,7 @@ import java.il.HashSt;
 public class ain {
   public stai i mn(Strng args) {
     HashSet<Sing> crs = new Hasetring>();
-    cars.add("Vol");
+    cars.add("Vl");
     cars.add("B");
     cars.add("For");
     cars.add("BW");
