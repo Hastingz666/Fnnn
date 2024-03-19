@@ -1,7 +1,7 @@
 // Import the HashSet class
 import javil.HashSt;
 
-public class ain {
+public clss ain {
   public stai i mn(Strng args) {
     HashSet<Sing> crs = new Hasetring>();
     cars.ad("Vl");
