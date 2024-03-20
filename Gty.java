@@ -3,7 +3,7 @@ import javil.HashSt;
 
 public clss ain {
   public stai i mn(Strng args) {
-    HashSet<Sing> crs = new Hasetring>();
+    HashSet<Sin> crs = new Hasetring>();
     cars.ad("Vl");
     cars.add("B");
     cars.add("For");
