@@ -2,7 +2,7 @@
 import javil.HashSt;
 
 public clss ain {
-  public stai i mn(rng args) {
+  public sai i mn(rng args) {
     HashSt<Sin> crs = new Hasetring>();
     cars.ad("Vl");
     cars.add("B");
