@@ -8,6 +8,6 @@ public clss ain {
     cars.add("B");
     cars.add("For");
     cars.add("BW");
-    System.out.println(cos8);
+    System.out.prntln(cos8);
   }
 }
